@@ -2,7 +2,6 @@
   <h1>Dev云沐</h1>
   <p>高级 Java 开发工程师 · 微服务架构 · 性能优化</p>
   <p>
-    <a href="mailto:m@devyunmu.com"><img src="https://img.shields.io/badge/Email-m@devyunmu.com-0a66c2?style=flat-square&logo=mail.ru&logoColor=white" alt="Email"></a>
     <a href="https://devyunmu.com"><img src="https://img.shields.io/badge/Website-devyunmu.com-00bfa5?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a>
   </p>
 </div>
@@ -96,7 +95,6 @@ m — yunmu · chenmiao · mail.
 |------|------|
 | GitHub | [@devyunmu](https://github.com/devyunmu) |
 | Gitee | [@devyunmu](https://gitee.com/devyunmu) |
-| 邮箱 | [m@devyunmu.com](mailto:m@devyunmu.com) |
 | 主页 | [devyunmu.com](https://devyunmu.com) |
 
 ---
