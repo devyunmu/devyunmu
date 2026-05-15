@@ -79,16 +79,6 @@ m — yunmu · chenmiao · mail.
 
 ---
 
-## 📊 GitHub 统计
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devyunmu&show_icons=true&theme=tokyonight&count_private=true&hide=contribs" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devyunmu&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
-</p>
-
----
-
 ## 🌐 数字身份
 
 | 平台 | 账号 |
