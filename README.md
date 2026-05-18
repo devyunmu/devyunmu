@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Dev云沐</h1>
-  <p>高级 Java 开发工程师 · 微服务架构 · 性能优化</p>
+  <p>AI 原生开发工程师 / 云原生后端架构师 · 全栈交付 · 效能革新</p>
   <p>
     <a href="https://devyunmu.com"><img src="https://img.shields.io/badge/Website-devyunmu.com-00bfa5?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a>
   </p>
@@ -13,7 +13,7 @@
 - **5年+** 核心架构研发经验，深耕 **Spring Cloud** 微服务生态
 - 曾在教育科技与新能源行业主导大型高并发平台的 **0→1 架构与交付**
 - 擅长后端性能诊断与数据库调优，亦能打破边界独立交付完整产品
-- 日常运用 AI 编程工具持续突破效率上限
+- 日常运用 **Cursor IDE** 与 **OpenCode** 双引擎构建 AI 原生开发工作流，从架构设计到部署运维实现全链路提效。
 
 ```text
 理性是云 · 温度是沐
@@ -62,7 +62,7 @@ m — yunmu · chenmiao · mail.
 | 时序/搜索 | InfluxDB, Elasticsearch, ClickHouse | ⭐⭐ 熟练 |
 | 容器与 DevOps | Docker, Kubernetes, Jenkins, CI/CD | ⭐⭐ 熟练 |
 | 前端与移动端 | Vue.js, UniApp, 微信小程序 | ⭐⭐ 熟练 |
-| 效能工具 | AI Agent, 性能调优, 复杂系统瓶颈分析 | ⭐⭐⭐ 精通 |
+| 效能工具 | AI Agent, Cursor, OpenCode, 性能调优, 复杂系统瓶颈分析 | ⭐⭐⭐ 精通 |
 
 ---
 
@@ -73,7 +73,7 @@ m — yunmu · chenmiao · mail.
 | 微电网物联网运营中台 | 后端架构 🔒 | 针对单月 **2076 万条** InfluxDB 数据查询瓶颈，将响应时间从 **60 秒降至 200 毫秒** |
 | 大型智慧教育云平台 | 核心开发 🔒 | Spring Cloud Alibaba 体系，整合多渠道支付与物联网设备接入，Redis + MQ 高并发支撑 |
 | 高并发政企裂变系统 | 独立交付 🔒 | 极短时间内独立完成全流程，支撑上线首日 **数万并发用户** 集中参与，零故障运行 |
-| [沐晴记账](https://github.com/devyunmu/muqing) | 独立产品 | 从 0 到 1 独立完成全栈开发（后端 API + UniApp 移动端），重度引入 AI Agent 辅助开发 |
+| [沐晴记账](https://github.com/devyunmu/muqing) | 独立产品 | 从 0 到 1 独立完成全栈开发，重度引入 **AI Agent** 辅助开发（Cursor + OpenCode 双引擎，效能提升超 40%） |
 
 > "沐"来自女儿的名字。每一行代码，都沐浴晴朗。
 
