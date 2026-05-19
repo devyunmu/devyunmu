@@ -3,6 +3,7 @@
   <p>全栈开发工程师 / 云原生后端架构师 · 深度交付 · 效能革新</p>
   <p>
     <a href="https://devyunmu.com"><img src="https://img.shields.io/badge/Website-devyunmu.com-00bfa5?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a>
+    <a href="mailto:m@devyunmu.com"><img src="https://img.shields.io/badge/Email-m%40devyunmu.com-00bfa5?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   </p>
 </div>
 
@@ -15,10 +16,9 @@
 - 擅长后端性能诊断与数据库调优，亦能打破边界独立交付完整产品
 - 日常运用 **Cursor IDE** 与 **OpenCode** 双引擎构建 AI 辅助开发工作流，从架构设计到部署运维实现全链路提效。
 
-```text
-理性是云 · 温度是沐
-m — yunmu · chenmiao · mail.
-```
+## 🔭 Currently Building
+
+- [沐晴记账](https://github.com/devyunmu/muqing) — 微信小程序记账工具，持续迭代中，计划接入 AI 智能分类
 
 ---
 
@@ -90,5 +90,11 @@ m — yunmu · chenmiao · mail.
 ---
 
 <div align="center">
+
+```text
+理性是云 · 温度是沐
+m — yunmu · chenmiao · mail.
+```
+
   <sub>留一个沐字给代码，留一份晴朗给生活。</sub>
 </div>
