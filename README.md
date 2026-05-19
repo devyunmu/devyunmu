@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Dev云沐</h1>
-  <p>AI 原生开发工程师 / 云原生后端架构师 · 全栈交付 · 效能革新</p>
+  <p>全栈开发工程师 / 云原生后端架构师 · 深度交付 · 效能革新</p>
   <p>
     <a href="https://devyunmu.com"><img src="https://img.shields.io/badge/Website-devyunmu.com-00bfa5?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a>
   </p>
@@ -13,7 +13,7 @@
 - **5年+** 核心架构研发经验，深耕 **Spring Cloud** 微服务生态
 - 曾在教育科技与新能源行业主导大型高并发平台的 **0→1 架构与交付**
 - 擅长后端性能诊断与数据库调优，亦能打破边界独立交付完整产品
-- 日常运用 **Cursor IDE** 与 **OpenCode** 双引擎构建 AI 原生开发工作流，从架构设计到部署运维实现全链路提效。
+- 日常运用 **Cursor IDE** 与 **OpenCode** 双引擎构建 AI 辅助开发工作流，从架构设计到部署运维实现全链路提效。
 
 ```text
 理性是云 · 温度是沐
