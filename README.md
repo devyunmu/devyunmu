@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Dev云沐</h1>
-  <p>物联网平台技术负责人 · Go 主力 / Java 底子 · 6 年+ 全栈交付</p>
+  <p>物联网平台技术负责人 · Go / Java 双栈 · 6 年+ 全栈交付</p>
   <p>
     <a href="https://devyunmu.com"><img src="https://img.shields.io/badge/Website-devyunmu.com-00bfa5?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a>
     <a href="mailto:m@devyunmu.com"><img src="https://img.shields.io/badge/Email-m%40devyunmu.com-00bfa5?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
