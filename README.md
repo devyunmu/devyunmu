@@ -20,6 +20,7 @@
 
 - **4G 智能设备 IoT 智慧平台**（主业 · 内部项目 🔒）— Go 多端物联网平台，覆盖设备上云 → 采集 → 控制 → OTA → 告警 → 运营管理，详见 [💼 项目实战](#-项目实战)
 - **iot-alert-agent**（开源 🌐）— [Go](https://github.com/devyunmu/iot-alert-agent) + MCP：把物联网告警处置经验封装为 LLM Agent 可调用的 MCP 工具，配自建 LLM 输出评测集（分层评分 + 反向用例校准），评测产物公开可复核
+- **dsh-im-connect-pro**（深度 fork 🌐）— 给 [DeepSeek Harness](https://github.com/MichengAI/dsh-im-connect) IM 插件自研飞书通道扩展（引用回取/会话准入/富文本摘要/出站 @ 注入，M0-M5），Apache-2.0 合规开源：[github.com/devyunmu/dsh-im-connect-pro](https://github.com/devyunmu/dsh-im-connect-pro)
 - **沐晴记账**（独立产品 🔒）— 微信小程序记账工具（小程序原生 + 微信云开发），持续迭代中
 
 ---
