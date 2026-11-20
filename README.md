@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Dev云沐</h1>
-  <p>高级工程师（Java / Go · 全栈能力） · 深度交付 · 效能革新</p>
+  <p>物联网平台技术负责人 · Go 主力 / Java 底子 · 6 年+ 全栈交付</p>
   <p>
     <a href="https://devyunmu.com"><img src="https://img.shields.io/badge/Website-devyunmu.com-00bfa5?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a>
     <a href="mailto:m@devyunmu.com"><img src="https://img.shields.io/badge/Email-m%40devyunmu.com-00bfa5?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
@@ -11,7 +11,7 @@
 
 ## 👋 关于
 
-- **5年+** 核心架构研发经验，深耕 **Spring Cloud** 微服务生态，现拓展 **Go 云原生与物联网** 方向
+- **6 年+** 后端研发（2020 入行），从 **Spring Cloud** 微服务到 **Go 云原生/物联网**，主打物联网平台 0→1 独立交付
 - 曾在教育科技与新能源行业主导大型高并发平台的 **0→1 架构与交付**
 - 擅长后端性能诊断与数据库调优，亦能打破边界独立交付完整产品
 - 系统性整合 AI 辅助编程工具（Cursor IDE + OpenCode），提升日常开发效率。
@@ -19,7 +19,8 @@
 ## 🔭 Currently Building
 
 - **4G 智能设备 IoT 智慧平台**（主业 · 内部项目 🔒）— Go 多端物联网平台，覆盖设备上云 → 采集 → 控制 → OTA → 告警 → 运营管理，详见 [💼 项目实战](#-项目实战)
-- **沐晴记账**（私有仓库 🔒）— 微信小程序记账工具，持续迭代中，计划接入 AI 智能分类
+- **iot-alert-agent**（开源 🌐）— [Go](https://github.com/devyunmu/iot-alert-agent) + MCP：把物联网告警处置经验封装为 LLM Agent 可调用的 MCP 工具，配自建 LLM 输出评测集（分层评分 + 反向用例校准），CI 全绿
+- **沐晴记账**（独立产品 🔒）— 微信小程序记账工具（小程序原生 + 微信云开发），持续迭代中
 
 ---
 
@@ -80,7 +81,8 @@
 | 微电网物联网运营中台 | 后端架构 🔒 | 针对单月 **2076 万条** InfluxDB 数据查询瓶颈，将响应时间从 **60 秒降至 200 毫秒**；三级缓存架构支撑现货市场 **毫秒级交易决策** |
 | 大型智慧教育云平台 | 核心开发 🔒 | Spring Cloud Alibaba 体系，整合多渠道支付与物联网设备接入，Redis + MQ 高并发支撑 |
 | 高并发政企裂变系统 | 独立交付 🔒 | 极短时间内独立完成全流程，支撑上线首日 **数万并发用户** 集中参与，零故障运行 |
-| 4G 智能设备 IoT 智慧平台 | Go 全栈 🔒 | **Go**（Gin + pgx/v5 + sqlc）+ EMQX/MQTT 多端物联网平台，打通设备「上云 → 采集 → 控制 → OTA → 告警 → 运营」全链路；数据库调优后实测摄取天花板 **192 → 354 帧/s（+84%）**，200/s 持续供给**零丢失**，单节点设备在线容量**实测 ≈5,000 台**；K8s（Helm + ko）交付，配套 k6/MQTT 压测体系 |
+| 4G 智能设备 IoT 智慧平台 | Go 全栈 🔒 | **Go**（Gin + pgx/v5 + sqlc）+ EMQX/MQTT 多端物联网平台，打通设备「上云 → 采集 → 控制 → OTA → 告警 → 运营」全链路；自研 MQTT 模拟器 + k6 可复现压测：4C8G 单机实测 **10,000 台设备在线**，4200 台混合负载**零丢失**，5000 台重连风暴 **15 秒内全恢复**，管理端 p95 **1.83s → 32ms**；K8s（Helm + ko）交付 |
+| [iot-alert-agent](https://github.com/devyunmu/iot-alert-agent) | 开源 🌐 | Go + Gin + MCP stdio：设备告警 LLM 处置（检索/摘要/幂等确认）+ 评测集工程（要点命中/定级分层、反向用例校准规则基线），AI 辅助构建 + 三轮独立评审，CI 全绿 |
 | 沐晴记账 | 独立产品 🔒 | 从 0 到 1 独立完成全栈开发，小程序原生 + Go (Gin) + SQLite，AI 辅助编程提升开发效率 |
 
 ---
