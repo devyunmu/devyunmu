@@ -19,7 +19,7 @@
 ## 🔭 Currently Building
 
 - **4G 智能设备 IoT 智慧平台**（主业 · 内部项目 🔒）— Go 多端物联网平台，覆盖设备上云 → 采集 → 控制 → OTA → 告警 → 运营管理，详见 [💼 项目实战](#-项目实战)
-- **iot-alert-agent**（开源 🌐）— [Go](https://github.com/devyunmu/iot-alert-agent) + MCP：把物联网告警处置经验封装为 LLM Agent 可调用的 MCP 工具，配自建 LLM 输出评测集（分层评分 + 反向用例校准），CI 全绿
+- **iot-alert-agent**（开源 🌐）— [Go](https://github.com/devyunmu/iot-alert-agent) + MCP：把物联网告警处置经验封装为 LLM Agent 可调用的 MCP 工具，配自建 LLM 输出评测集（分层评分 + 反向用例校准），评测产物公开可复核
 - **沐晴记账**（独立产品 🔒）— 微信小程序记账工具（小程序原生 + 微信云开发），持续迭代中
 
 ---
@@ -82,7 +82,7 @@
 | 大型智慧教育云平台 | 核心开发 🔒 | Spring Cloud Alibaba 体系，整合多渠道支付与物联网设备接入，Redis + MQ 高并发支撑 |
 | 高并发政企裂变系统 | 独立交付 🔒 | 极短时间内独立完成全流程，支撑上线首日 **数万并发用户** 集中参与，零故障运行 |
 | 4G 智能设备 IoT 智慧平台 | Go 全栈 🔒 | **Go**（Gin + pgx/v5 + sqlc）+ EMQX/MQTT 多端物联网平台，打通设备「上云 → 采集 → 控制 → OTA → 告警 → 运营」全链路；自研 MQTT 模拟器 + k6 可复现压测：4C8G 单机实测 **10,000 台设备在线**，4200 台混合负载**零丢失**，5000 台重连风暴 **15 秒内全恢复**，管理端 p95 **1.83s → 32ms**；K8s（Helm + ko）交付 |
-| [iot-alert-agent](https://github.com/devyunmu/iot-alert-agent) | 开源 🌐 | Go + Gin + MCP stdio：设备告警 LLM 处置（检索/摘要/幂等确认）+ 评测集工程（要点命中/定级分层、反向用例校准规则基线），AI 辅助构建 + 三轮独立评审，CI 全绿 |
+| [iot-alert-agent](https://github.com/devyunmu/iot-alert-agent) | 开源 🌐 | Go + Gin + MCP stdio：设备告警 LLM 处置（检索/摘要/幂等确认）+ 评测集工程（要点命中/定级分层、反向用例校准规则基线），AI 辅助构建 + 三轮独立评审闭环 |
 | 沐晴记账 | 独立产品 🔒 | 从 0 到 1 独立完成全栈开发，小程序原生 + Go (Gin) + SQLite，AI 辅助编程提升开发效率 |
 
 ---
